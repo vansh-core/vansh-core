@@ -10,10 +10,6 @@ I enjoy building applications while focusing on strong fundamentals,
 clean code, and understanding how things work internally.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vansh-core&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-core" />
-</p>
-
 <hr/>
 
 <h3 align="left">🔗 Connect with me</h3>
