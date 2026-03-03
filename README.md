@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="YOUR_HEADER_IMAGE_URL_HERE" width="100%" alt="Vansh's Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 
